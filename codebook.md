@@ -29,7 +29,7 @@ The data include the following:
 
 - 'test/y_test.txt': Test labels.
 
-## Transformation details
+## ETL
 
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement.
